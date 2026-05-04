@@ -2,7 +2,7 @@
 	"name" : "geographic_memories",
 	"version" : 1,
 	"creationdate" : 3858593654,
-	"modificationdate" : 3860335253,
+	"modificationdate" : 3860700793,
 	"viewrect" : [ 793.0, 355.0, 299.0, 501.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -16,12 +16,12 @@
 				"toplevel" : 1
 			}
 ,
-			"point.maxpat" : 			{
+			"line_helper.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
-			"line_helper.maxpat" : 			{
+			"point.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -50,6 +50,11 @@
 			}
 ,
 			"Time Bomb Vintage_Anxiety.wav" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"hennepin county governement center_isolated.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
