@@ -1,7 +1,7 @@
 inlets=1;
 outlets=1;
 
-let point_positions = [[30,84], [99, 84]];
+let point_positions = [[25,60], [101, 60]];
 const maxDistance = 127;
 const exaggeration = 3;
 let emotionalThreshold = 20;
